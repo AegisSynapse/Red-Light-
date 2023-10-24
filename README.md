@@ -7,7 +7,10 @@
 Source Code can be Reqeusted - AT
 
 # Features 
-Easily hide a variety of file extensions utlizing LSB within a photo using a 
+Easily hide a variety of file extensions utlizing a unique LSB technique offering an additonal layer of security. 
+
+Tested File Extensions 
+
   - .PY
   - .TXT
   - .CSV
